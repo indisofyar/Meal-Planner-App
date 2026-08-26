@@ -4,6 +4,6 @@
 
 Meal Planner app helps you plan your meals throughout the week, auto-import recipes from google and maintain a bank of recipes seamlessly.
 
-Link: [https://app.mealplanner.club/](https://recipe-app-2024.vercel.app/)
+Link: [https://recipe-app-2024.vercel.app/](https://recipe-app-2024.vercel.app/)
 
 
